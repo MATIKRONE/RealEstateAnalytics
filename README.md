@@ -11,19 +11,13 @@ Este proyecto de Data Science tiene como objetivo analizar el mercado inmobiliar
 ## 🛠️ Tecnologías y Herramientas Utilizadas
 - **Lenguaje:** Python
 - **Manipulación de Datos:** Pandas, NumPy
-- **Visualización:** Matplotlib / Seaborn (o las que hayas usado)
-- **Análisis Estadístico:** [Agregar librerías como Statsmodels o Scikit-learn si aplica]
+- **Visualización:** Matplotlib
+- **Machine Learning y Estadística:** Scikit-learn, Statsmodels
 
 ## 🚀 Resultados Clave
-- Se logró limpiar un dataset de `[Insertar cantidad]` registros, mejorando la calidad de los datos para el análisis.
-- Se identificaron `[Insertar hallazgo, ej: 3 zonas de alto potencial de crecimiento]` basadas en el análisis de precios por metro cuadrado.
-
-## ⚙️ Cómo ejecutar el proyecto
-1. Clonar el repositorio:
-   `git clone https://github.com/MATIKRONE/RealEstateAnalytics.git`
-2. Instalar las dependencias necesarias:
-   `pip install -r requirements.txt`
-3. Ejecutar el notebook principal: `[Nombre_del_notebook].ipynb`
+- Se diseñó e implementó un flujo de limpieza de datos estructurado, logrando estandarizar formatos y mitigar el impacto de valores atípicos (outliers) para asegurar la fiabilidad del modelo.
+- Se generaron visualizaciones clave que permiten comparar de forma clara y rápida el valor del metro cuadrado entre distintas zonas, facilitando la interpretación de los datos.
+- Se estableció una metodología analítica reproducible que ayuda a identificar propiedades subvaluadas y zonas con potencial de inversión, basándose en el análisis de variables históricas.
 
 ---
-**Autor:** Matías Kronemberger | [Enlace a tu LinkedIn]
+**Autor:** Matías Kronemberger | (https://www.linkedin.com/in/matias-kronemberger/)
